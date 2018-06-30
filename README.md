@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+`rails s` - start Rails server (application)
+
+`rake routes` - list all routes available on the application
